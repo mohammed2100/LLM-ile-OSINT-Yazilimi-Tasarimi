@@ -4,7 +4,7 @@ Bu proje, **Büyük Dil Modelleri (LLM)** kullanarak OSINT verilerini toplama, a
 
 ## Özellikler
 - **Veri Toplama**
-  - Arama motorlarından ve sosyal medyadan veri çekme.
+  - Arama motorlarından, sosyal medya platformlarından ve haber kaynaklarından veri çekme.
 - **Analiz**
   - GPT-4 ile bağlamsal analiz ve tehdit değerlendirmesi.
 - **Görselleştirme**
@@ -25,5 +25,12 @@ Bu proje, **Büyük Dil Modelleri (LLM)** kullanarak OSINT verilerini toplama, a
 - Maltego eklentileri.
 - Yeni veri kaynakları.
 
-## Katkı
-Pull request göndererek katkı sağlayabilirsiniz!
+## Örnek Vaka: Güvenlik Analizi
+
+Aşağıdaki görsel, bir hedefin sosyal medya ve haber bağlantılarını analiz ederek oluşturulan ilişki haritasını göstermektedir:
+
+![Örnek Vaka](ornek.png)
+
+Bu görsel, NetworkX ve GPT-4 kullanılarak üretilmiştir.
+
+
